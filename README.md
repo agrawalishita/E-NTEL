@@ -1,5 +1,5 @@
 # E-NTEL
-# Team Name: Team Etch Tee Tee Pee
+# Team Name: Team Chosen 1s
 # Problem Statement: 
 Develop an IT enabled framework/mechanism through which a person can give tip-off about any suspicious activity/crime to the authorities.
 
